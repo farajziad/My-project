@@ -12,8 +12,15 @@ Pour la partie Hardware le Micro-controlleur sera avec une carte d'impression PC
 4-Un petit vontilateur
 5-Regulateur 5V
 6-BT module
-7-Battrie
+7-Batterie
 +Le rôle de chacun de c'est composants : 
 1-ATmega 328p : le cerveau du micro-controlleur qui va pouvoir programmer les projets electroniques et les robots.
 2-OLED display : Dans cette petite écran permet de visualiser l'etat du micro-controlleur (ex : le televersement , le fonctionnement , etc).
 3-LED : cette LED va etre connecté à l'ATmega 328 p pour savoir si le micro-controlleur est allumé.
+4-Un petit vontilateur : Ce vontilateur va être utilisée pour refroidîre le Regulateur 5V.
+5-Regulateur 5V : Ce regulateur va etre utilisée pour alimenté les appareils ayant besoin de 5V (ex : BT module , écran OLED , ATmega 328p , petit vontilateur ).
+6-BT module : C'est l'option avancée du projet entier , il va être utilisée pour la programmation (C++ ou les Blocs).
+7-Batterie : elle va être composée de deux piles rechargeables qui ont 17 heure et plus pour durée de chaque racharge.
+# La partie Software du Micro-controlleur "Air controller"
+Pour la partie du software je vais utiliser Arduino IDE come programmateur avec le C++ , et même pour configurer le bootloader la programmation va être avec une autre arduino ("Arduino as ISP") la progrommation va-t-être sous un programme C++ , et aprés ce programme le projet va-t-être prêt.
+# Et pour les composants , quelque composants ont étè prisesd'un ancien materiel
