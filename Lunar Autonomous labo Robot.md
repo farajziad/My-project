@@ -20,3 +20,6 @@ I already just have started working on this project , this project is a robot th
 
 # The 3D conception :
  On my robot am gonna made a 3D conception where all robot components will there
+
+# The V1 materiel assembled 
+ In the V1 materiel assembled i regrouped all the materiel on my 3D conception , and this was too hard for me it took me so much time , so please be patient and wait me to post  a devlog for the robot working .
