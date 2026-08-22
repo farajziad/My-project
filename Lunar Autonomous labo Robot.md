@@ -23,3 +23,6 @@ I already just have started working on this project , this project is a robot th
 
 # The V1 materiel assembled 
  In the V1 materiel assembled i regrouped all the materiel on my 3D conception , and this was too hard for me it took me so much time , so please be patient and wait me to post  a devlog for the robot working .
+
+# The V2 materiel assembled
+ In the V2 the robot will avoid the obstacles normaly by its sensor , and the think what it make it more special is that he has a servo motor and the sensor is fixed on the serrvo motor so , when the obstacle is detected he can look left and right and choose the good way to move.
